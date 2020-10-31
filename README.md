@@ -1,2 +1,1 @@
-# HTML5
-Code With HTML5!
+# Why HTML?
